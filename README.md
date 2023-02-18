@@ -1,4 +1,4 @@
-# movieApp
+# MOVIE APP
 
 ## Tech Stack = 
 
